@@ -1,6 +1,6 @@
 {
-"companyName": "LariGames",
-"productName": "Word Rain",
+"companyName": "DefaultCompany",
+"productName": "wordrain",
 "productVersion": "0.1",
 "dataUrl": "publish_wordrain_demo.data.unityweb",
 "wasmCodeUrl": "publish_wordrain_demo.wasm.code.unityweb",
